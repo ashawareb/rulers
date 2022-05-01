@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rulers (0.2.0)
+    rulers (0.3.0)
       rake (~> 12.0)
 
 GEM
