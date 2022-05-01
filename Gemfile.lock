@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    rulers (0.2.0)
+      rake (~> 12.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (2.2.3)
+    rack-test (0.6.3)
+      rack (>= 1.0)
+    rake (12.3.3)
+
+PLATFORMS
+  arm64-darwin-20
+
+DEPENDENCIES
+  rack-test
+  rake (~> 12.0)
+  rulers!
+
+BUNDLED WITH
+   2.2.27
